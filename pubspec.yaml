@@ -1,0 +1,14 @@
+name: common_macros
+description: A collection of various macro-based utilities for Dart.
+version: 1.0.0
+topics:
+  - macros
+
+environment:
+  sdk: ^3.5.0-254.0.dev
+
+dependencies:
+  macros: ^0.1.2-main.3
+
+dev_dependencies:
+  leancode_lint: ^13.0.0
